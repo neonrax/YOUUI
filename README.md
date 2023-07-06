@@ -1,5 +1,5 @@
 # Youtube UI clone 
 
-Used Reactjs and Styled component for css 
+Used React js as framework and Styled component as css library
 
 Thanks to lamadev
