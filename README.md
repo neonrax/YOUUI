@@ -1,2 +1,5 @@
 # Youtube UI clone 
-thanks to lamadev
+
+Used Reactjs and Styled component for css 
+
+Thanks to lamadev
