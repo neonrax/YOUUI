@@ -1,2 +1,2 @@
 # Youtube UI clone 
-#thanks to lamadev
+thanks to lamadev
